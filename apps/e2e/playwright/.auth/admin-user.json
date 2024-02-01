@@ -1,0 +1,65 @@
+{
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "value": "msz6biBjvu0gebEq1i5wliDl_UoG9cNEsgt.i65PsPs-1698440044-0-AQFvb7EPyKaoaM/OwChyCSnrwKtUzGYnX7XWymWgs2/s6RkZP4aQTGnHqOHGWgJyPg8Kt7K2jcOTvqT9KMI/gLA=",
+      "domain": ".enjoyed-cobra-30.clerk.accounts.dev",
+      "path": "/",
+      "expires": 1698441844.749802,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "GqGK9qYmM12PJ4E922P83ZK3U2..TMD9UfwLf86yaUk-1698440044811-0-604800000",
+      "domain": ".enjoyed-cobra-30.clerk.accounts.dev",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__clerk_db_jwt",
+      "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOiJkdmJfMlhNWGh0bnh4blNzWENDYmYwMHdaM3FnR1JDIiwiaWQiOiJjbGllbnRfMlhNWGlFdjFRZnh3OXFsYjZHUjZ1T29aejhYIiwicm90YXRpbmdfdG9rZW4iOiJjb2NpMmFqazB5dHllM2kxYmFuaWZmbzkzaG03eTcycmkxdWhzd3h6In0.LLgqTEwxtPGgvj2qR0zjpH5EYhlLOZ7JwtF5sWXiRRI0_JHVTunQuefeuur5yXX8jHdMjWWiVOWXHeUqgBPzLvaR80KNBGOgvp7qsW7m-QpQgq-Otg2CuUYRWH_Im4ktTfHi1yHPjqMBw6te4Fxeu31OuGsnxQzUBkc19wYdnOuu8HsXhNhx_p_Q4Vbbh7taEnx63NwbDJ0-EW5TXaBP5JV-EdClOyiqKKdKd5UQR_TY2lY2TnDYY9Hy2yCBvlGG4DUuamahk8waBnTbRAAtfzMv8XXgTY0GS430P_btC0hqmMhobNdWpB43G7pLZ4JOrJudzzkpuNAR_lCDShNkfg",
+      "domain": "localhost",
+      "path": "/",
+      "expires": 1730062454,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__client_uat",
+      "value": "1698440052",
+      "domain": "localhost",
+      "path": "/",
+      "expires": 1730062454,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__session",
+      "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6Imluc18yU0I2U2xrZEkydXZTc05JUG9MVkpvNlQ4UVEiLCJ0eXAiOiJKV1QifQ.eyJhenAiOiJodHRwOi8vbG9jYWxob3N0OjMwMDAiLCJleHAiOjE2OTg0NDAxMTQsImlhdCI6MTY5ODQ0MDA1NCwiaXNzIjoiaHR0cHM6Ly9lbmpveWVkLWNvYnJhLTMwLmNsZXJrLmFjY291bnRzLmRldiIsIm5iZiI6MTY5ODQ0MDA0NCwic2lkIjoic2Vzc18yWE1YaXc5QndTbUtKUzRUeWR2RWN1TFBQN3giLCJzdWIiOiJ1c2VyXzJXYlhlODNraDFJUUNNYWxtUG1qMFp5cFhYMCJ9.HJRW5av6YMZkYb5cqmNrjtdMi6s3jmxFjbfzh0U-iqmfzciwTYMnmdba4GEM8WFE9cp_DvVWv3I6AIihYRpOsuhND_z3_5iCc_MDTYQdPcT8eLlEhA2IRFeAXwafxqQTAglq1xbwD02toPbBsc7YLsVnqHDnF4TGctsP1DTokYD4aRJcHsrPNIGiPyWN--fqEL8iAqiE61luxIx3h7zcpFDEDdDtylvKwdheDY4wxfkQvmHv-z1Hs8BeCXatBXVxHn0hB9VoaXmFslc4n9aHd1z6R11sjVi9St-70pDbw-Ow2BFMictRZF1luI6ZAUG84uWo6hWvYDr7Fu-vMK0OuA",
+      "domain": "localhost",
+      "path": "/",
+      "expires": 1730062454,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "http://localhost:3000",
+      "localStorage": [
+        {
+          "name": "clerk-db-jwt",
+          "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOiJkdmJfMlhNWGh0bnh4blNzWENDYmYwMHdaM3FnR1JDIiwiaWQiOiJjbGllbnRfMlhNWGlFdjFRZnh3OXFsYjZHUjZ1T29aejhYIiwicm90YXRpbmdfdG9rZW4iOiJjb2NpMmFqazB5dHllM2kxYmFuaWZmbzkzaG03eTcycmkxdWhzd3h6In0.LLgqTEwxtPGgvj2qR0zjpH5EYhlLOZ7JwtF5sWXiRRI0_JHVTunQuefeuur5yXX8jHdMjWWiVOWXHeUqgBPzLvaR80KNBGOgvp7qsW7m-QpQgq-Otg2CuUYRWH_Im4ktTfHi1yHPjqMBw6te4Fxeu31OuGsnxQzUBkc19wYdnOuu8HsXhNhx_p_Q4Vbbh7taEnx63NwbDJ0-EW5TXaBP5JV-EdClOyiqKKdKd5UQR_TY2lY2TnDYY9Hy2yCBvlGG4DUuamahk8waBnTbRAAtfzMv8XXgTY0GS430P_btC0hqmMhobNdWpB43G7pLZ4JOrJudzzkpuNAR_lCDShNkfg"
+        }
+      ]
+    }
+  ]
+}
